@@ -23,8 +23,8 @@
   ],
   "kv_namespaces": [
     {
-      "binding": "Encurtador",
-      "id": "25d737c1fb3a49f2abed1969bb0c017b" // IMPORTANT: Change this to your KV namespace ID
+      "binding": "encurtador",
+      "id": "fa394db5c0fb45f8af8b677a8cc7f431" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
 }
